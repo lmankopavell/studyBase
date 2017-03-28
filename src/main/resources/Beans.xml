@@ -11,6 +11,7 @@
               <property name="beanB" ref="b"/>
        </bean>
 
+
        <bean id="b" class="com.ua.studybase.entity.BeanB">
               <property name="beanA" ref="a"/>
        </bean>
